@@ -1,4 +1,4 @@
-# Bruno Jose da Silva - Data Analyst
+# Bruno Jose da Silva - Analista de Dados & Business Intelligence
 
 ## 👋 Sobre Mim
 Sou um Analista de Dados com conhecimento em SQL, DAX, com experiência em Power BI, Power Query e metodologias ágeis (Scrum, Kanban). Sempre em busca de novos desafios e aprimoramento contínuo com projetos.
