@@ -37,4 +37,4 @@ Atualmente, estou estudando SQL, me aperfeiçoando em DAX, Power Query e na IA c
 ## 📫 Contato
 - **LinkedIn**: [LinkedIn Bruno](https://linkedin.com/in/brunojdasilva)
 - **Email**: [Contato E-mail](https://mail.google.com/mail/?view=cm&fs=1&to=brunosilva.x010@gmail.com&su=Assunto%20do%20E-mail&body=Mensagem%20inicial)
-- **Whatsapp**: [Bruno Silva](wa.me/+5511957535405)
+- **Whatsapp**: [Bruno Silva](https://wa.me/+5511957535405)
