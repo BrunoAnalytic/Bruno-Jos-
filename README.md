@@ -25,7 +25,7 @@
 ## 📚 Certificações
 - **Power BI: Data Mundo**
 - **SQL: Data Mundo**
-- **Excel para Análise de Dadosaaaaaa: Data Mundo**
+- **Excel para Análise de Dados: Data Mundo**
 
 ---
 
